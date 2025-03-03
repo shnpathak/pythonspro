@@ -1,5 +1,5 @@
 <h1>🐍Python basic Projects :</br></h1>
-![Python Logo](./python-logo.svg)
+
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
   <!-- Blue circle on the left -->
   <path d="M150 0C111.5 0 93.2 12.2 93.2 42.5v31.8h56.8v7.3H60C32.4 81.6 18 102.4 18 135.3c0 32.9 14.4 54.5 42 54.5h27.2v-39.7c0-28 24.3-52.7 56.8-52.7h56.7c25.3 0 45.5-20.7 45.5-45.9V42.5c0-24.3-20.5-42.5-56.2-42.5z" fill="#366a96"/>
